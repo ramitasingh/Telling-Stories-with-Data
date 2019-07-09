@@ -19,5 +19,7 @@ I hope to improve my skills in choosing the right type of visualization, the app
 This is my portfolio where I'll be adding everything I do! :dancers:
 
 # Assignment 1
+## Visualization of the popularity of the Left Party
 <iframe title="Popularity on the Left-Side" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/G8G3m/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="383"></iframe>
+“The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
 
