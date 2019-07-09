@@ -8,6 +8,8 @@ I studied Biotechnology as an undergrad and got very attached to the field of He
 
 ## My hobbies
 I want to say I'm very outgoing in my free time, playing tennis and hiking and all that cool stuff, but lately I'm more of a **potato** glued to Netflix. 
+
+
 ![Couch potato](https://github.com/ramitasingh/Telling-Stories-with-Data/blob/master/2408605_0.jpg)
 
 # What I hope to learn
