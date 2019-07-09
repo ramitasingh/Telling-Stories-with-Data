@@ -18,3 +18,6 @@ I hope to improve my skills in choosing the right type of visualization, the app
 # Portfolio
 This is my portfolio where I'll be adding everything I do! :dancers:
 
+# Assignment 1
+[]https://datawrapper.dwcdn.net/G8G3m/1/
+
