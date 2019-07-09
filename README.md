@@ -23,3 +23,5 @@ This is my portfolio where I'll be adding everything I do! :dancers:
 <iframe title="Popularity on the Left-Side" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/G8G3m/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="383"></iframe>
 “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
 
+Something I would consider would be including other parties like the British National Party for comparison. Candidates could be receiving far more likes in those parties and that could potentially be completely ignored with this data visualization. 
+
