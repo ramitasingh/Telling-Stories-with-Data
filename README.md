@@ -19,5 +19,5 @@ I hope to improve my skills in choosing the right type of visualization, the app
 This is my portfolio where I'll be adding everything I do! :dancers:
 
 # Assignment 1
-[]https://datawrapper.dwcdn.net/G8G3m/1/
+<iframe title="Popularity on the Left-Side" aria-label="Bar Chart" id="datawrapper-chart-G8G3m" src="//datawrapper.dwcdn.net/G8G3m/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="383"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
