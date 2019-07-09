@@ -10,7 +10,7 @@ I studied Biotechnology as an undergrad and got very attached to the field of He
 I want to say I'm very outgoing in my free time, playing tennis and hiking and all that cool stuff, but lately I'm more of a **potato** glued to Netflix. 
 
 
-![Couch potato](https://github.com/ramitasingh/Telling-Stories-with-Data/blob/master/2408605_0.jpg)
+![Couch potato](Telling-Stories-with-Data/blob/master/2408605_0.jpg)
 
 # What I hope to learn
 I hope to improve my skills in choosing the right type of visualization, the appropriate pallet, how to highlight important data and filter the unnecessary ones and make data visualizations a concise and fun summary of the information I might have.
