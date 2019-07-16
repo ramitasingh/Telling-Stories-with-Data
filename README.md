@@ -26,6 +26,22 @@ This is my portfolio where I'll be adding everything I do! :dancers:
 Something I would consider would be including other parties like the British National Party for comparison. Candidates could be receiving far more likes in those parties and that could potentially be completely ignored with this data visualization. 
 
 # Assignment 2
+
+## Data Visualization as a Journalist 
+
+<div class="infogram-embed" data-id="c6842f0e-31fb-44bb-89e8-23600883bc74" data-type="interactive" data-title="Data Viz as a journalist"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c6842f0e-31fb-44bb-89e8-23600883bc74" style="color:#989898!important;text-decoration:none!important;" target="_blank">Data Viz as a journalist</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+I created this infographic from the point of view of a data journalist working for a daily newspaper like The New York Times that the general population reads (I'm mostly thinking about my dad reading his paper with his morning tea). I wanted to created a sort of visualization that would gauge the audience's interest on a topic they wouldn't have much information on. I also wanted to ensure I kept the tone of how serious the issue was. That's the main reason I decided to go with a black and white theme and not use any brightness or colors in the whole infograph. My secondary reason was that this would take up a lot of space, and with color, it would prove to be very expensive for a newspaper. There is a bit of red in the Map I've used but I feel like the extremely small amount would still be cheap and I personally feel it creates a big effect.
+
+The facts from the report were quite overwhelming and I didn't want to try to incorporate all of it because the readers would get confused with the massive amount of information. I picked out a few numbers that would stand out and highlight the difficulties at the border. As a common reader the idea of 124%, a figure greater than a  100%, already brings up a red flag. I made sure the numbers were the main point by making them larger and bolder than the rest of the text. 
+I also merged a lot of data together ( like the apprehensions > 72 hours and > 10 days) because it was getting the same point across either way, but having fewer portions and segments was easier on the eyes.
+
+I played around a lot with the positioning of everything and I didn't like the typical text on one side, graphics on another idea because it was a) creating a lot of unnecessary space and b) just not looking visually appealing. So I incorporated a lot of what should have been the description text into the charts as well. I fit the 124% increase right into the gap that shows the increase and the 43% in the pie chart is both a label in the chart as well as part of it's description.
+
+What bothers me is having both a pie chart and a semi-circle chart. It seems like too many arc type graphics but I didn't want to leave out either of those facts. 
+
+
+
 ## Critique of a data visualization from the US Census Bureau
 ### "How Likely Would You Be to Fill Out the Census Form?"
 
@@ -58,6 +74,7 @@ Finally, I also changed the color scheme of the graph. Like I mentioned before, 
 **Where I fell short**
 The original column chart did not do a good job of placing the percentage values of the "Not at all likely" level. I wasn't able to find any way to improve on this because the values are so small compared to the other groups to fit into a segment of the bar.
 In fact my visualization ended up not showing the percentage values at all for a couple of segments. It seems pretty obvious that they're less but I should have found a way to incorporate it.
+
 
 
 
