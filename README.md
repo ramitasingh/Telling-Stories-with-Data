@@ -58,7 +58,7 @@ I wasn't too happy with the colors of my pie-chart at the end but I did experime
 ## Critique of a data visualization from the US Census Bureau
 ### "How Likely Would You Be to Fill Out the Census Form?"
 
-<a href="https://www.census.gov/library/visualizations/2019/comm/2020-census-participation-likelihood.html?cid=embedded_infographic" target="_blank"><img src="https://www.census.gov/library/visualizations/2019/comm/2020-census-participation-likelihood/_jcr_content/map.detailitem.800.high.jpg/1548339754138.jpg" alt="How Likely Would You Be to Fill Out the Census Form?" width="612" height="648" title="How Likely Would You Be to Fill Out the Census Form?"/></a>
+<a href="https://www.census.gov/library/visualizations/2019/comm/2020-census-participation-likelihood.html?cid=embedded_infographic" target="_blank"><img src="https://www.census.gov/library/visualizations/2019/comm/2020-census-participation-likelihood/_jcr_content/map.detailitem.800.high.jpg/1548339754138.jpg" alt="How Likely Would You Be to Fill Out the Census Form?" width="612" height="648" title="How Likely Would You Be to Fill Out the Census Form?"/>
 [Source: U.S. Census Bureau]
 
 I found this data visualization while I was exploring some Census data for my internship. The purpose of a visualization like this would probably be to encourage it's viewers to fill out the Census form. If I found myself to be a part of the category that leaned towards 'unlikely to fill out', I'd feel a sense of guilt about my stance. It's similar to a persuasive data visualization convincing people to vote.
