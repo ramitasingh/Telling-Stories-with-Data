@@ -40,6 +40,19 @@ I played around a lot with the positioning of everything and I didn't like the t
 
 What bothers me is having both a pie chart and a semi-circle chart. It seems like too many arc type graphics but I didn't want to leave out either of those facts. 
 
+## Data Visualization as an Analyst
+<div class="infogram-embed" data-id="ca56e701-201b-415a-b02f-ec5ade29ef81" data-type="interactive" data-title="Ocean Sand"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ca56e701-201b-415a-b02f-ec5ade29ef81" style="color:#989898!important;text-decoration:none!important;" target="_blank">Ocean Sand</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+For the purpose of presentation to the policy analysts, I wanted to make sure the facts were very clear and cut out. Along with the graphics I felt that the accompanying descriptions also had to be very impactful. Hence I employed the use of color and size in the wording as well.
+
+The aim here would be to convince the policy makers that not only is there a problem, but that this problem is huge and needs immediate attention. This wouldn't be by overburdening them with facts but by presenting few but very hard ones. 
+The one's I chose were - 1) The number of apprehensions has increased greatly  2) People of all ages are being apprehended and 3) There is an amount of illegal activity going on 
+
+I chose not to add to many colors and chose a pallete that was subtle since I didn't want anything too bright or energetic to present a grieve issue to policymakers. Most of my visualizations use the color red to signal something undesirable, like the increase in detainees or the number of detainees being kept beyond what is permitted.
+I used a lot of red to highlight the important numbers as well. To keep my charts more minimilistic and easier on the eye, I refrained from adding too much data, especially the exact count of the apprehensions since the large numbers were taking too much space. While the animations do potray the actual figures, I feel like the message is comprehended in it's absence as well. 
+
+I wasn't too happy with the colors of my pie-chart at the end but I did experiment around, failing to find the best way to highlight the detainees kept overtime. I will continue to find a better way to do that. I also wanted to incorporate some of the ICE data in the report, but couldn't find a method to visualize those facts. It seemed like something I would put across better as plain statements in the presentation.
+
 
 
 ## Critique of a data visualization from the US Census Bureau
