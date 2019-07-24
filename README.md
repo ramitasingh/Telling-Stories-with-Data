@@ -90,7 +90,8 @@ In fact my visualization ended up not showing the percentage values at all for a
 
 
 # WEEK 3 - RAW 
-You can find the link to my week 3 OECD Data Visualizations  [here](https://ramitasingh.github.io/Week-3/)
+
+Here's the link to my [Week 3 OECD data visualizations](https://ramitasingh.github.io/Week-3/)
 
 # FINAL PROJECT
 Here's the link to my [final project](https://ramitasingh.github.io/Final-Project/)
