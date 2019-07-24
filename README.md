@@ -89,6 +89,13 @@ The original column chart did not do a good job of placing the percentage values
 In fact my visualization ended up not showing the percentage values at all for a couple of segments. It seems pretty obvious that they're less but I should have found a way to incorporate it.
 
 
+# WEEK 3 - RAW 
+You can find the link to my week 3 OECD Data Visualizations [here](https://ramitasingh.github.io/Week-3/)
+
+# FINAL PROJECT
+Here's the link to my [final project](https://ramitasingh.github.io/Final-Project/)
+
+
 
 
 
