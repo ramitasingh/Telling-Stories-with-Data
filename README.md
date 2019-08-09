@@ -1,8 +1,8 @@
 # Cmu-student Portfolio
-My Public Portfolio for the course **'Telling Stories with Data'**, Summer-2 :sunny:,2019
+My Public Portfolio for the course **'Telling Stories with Data'**, Summer-2 ,2019
 
 # About Me
-Hi I'm Ramita, A.K.A *Rum* (nicknamed after my dad's favorite drink). I'm a graduate student studying Health Care Policy and Management at the Heinz College, Carnegie Mellon University :mortar_board:. 
+Hi I'm Ramita, A.K.A *Rum* (nicknamed after my dad's favorite drink). I'm a graduate student studying Health Care Policy and Management at the Heinz College, Carnegie Mellon University. 
 ## My journey
 I studied Biotechnology as an undergrad and got very attached to the field of Healthcare. I'm still exploring and trying to narrow down my options about what career path to take in Healthcare, and I hope to make that decision soon!
 
